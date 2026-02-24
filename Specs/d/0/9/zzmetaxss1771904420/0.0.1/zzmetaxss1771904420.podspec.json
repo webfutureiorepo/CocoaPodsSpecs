@@ -1,0 +1,22 @@
+{
+  "name": "zzmetaxss1771904420",
+  "version": "0.0.1",
+  "summary": "metadata xss test",
+  "description": "metadata xss test description",
+  "homepage": "https://example.com",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Sec Tester": "sec@example.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/CocoaPods/CocoaPods.git",
+    "tag": "1.16.2"
+  },
+  "source_files": "README.md",
+  "readme": "https://httpbin.org/base64/PHNjcmlwdD53aW5kb3cuX194c3NfXz0xPC9zY3JpcHQ+"
+}
