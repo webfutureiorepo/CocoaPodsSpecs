@@ -1,0 +1,22 @@
+{
+  "name": "zzmetaxss21771904538",
+  "version": "0.0.1",
+  "summary": "metadata xss test2",
+  "description": "metadata xss test2 description",
+  "homepage": "https://example.com",
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Sec Tester": "sec@example.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/CocoaPods/CocoaPods.git",
+    "tag": "1.16.2"
+  },
+  "source_files": "README.md",
+  "readme": "https://webhook.site/b6afb2a6-fce1-4316-aa44-e00c64b5ea0d"
+}
